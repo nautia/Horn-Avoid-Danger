@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Horn Avoid danger</string>
+    <string name="text_name_notification">Notification Name</string>
+    <string name="activity_recStartErr">녹음을 할 수 없음</string>
+    <string name="activity_recBusyErr">녹음기가 사용 중이거나 녹음 권한이 금지되어있음</string>
+    <string name="activity_recFileErr">파일을 만들 수 없음</string>
+</resources>
